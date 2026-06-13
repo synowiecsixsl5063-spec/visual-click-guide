@@ -1,6 +1,6 @@
 {
   "name": "visual-click-guide",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A system prompt that turns software instructions into SVG visual guides.",
   "main": "prompt/visual-click-guide-prompt.txt",
   "scripts": {
