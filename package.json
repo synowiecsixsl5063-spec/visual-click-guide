@@ -1,0 +1,21 @@
+{
+  "name": "visual-click-guide",
+  "version": "1.0.0",
+  "description": "A system prompt that turns software instructions into SVG visual guides.",
+  "main": "prompt/visual-click-guide-prompt.txt",
+  "scripts": {
+    "test": "echo 'This is a prompt-only project. Tests are run manually via Qwen Max. See CONTRIBUTING.md.'"
+  },
+  "keywords": [
+    "svg",
+    "prompt-engineering",
+    "visual-guide",
+    "ai",
+    "tutorial"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/visual-click-guide.git"
+  }
+}

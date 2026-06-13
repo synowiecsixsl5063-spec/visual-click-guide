@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 400" width="680" height="400">
+  <defs><marker id="arr" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#EF4444"/></marker></defs>
+  <rect width="680" height="400" fill="#F3F4F6"/>
+  <!-- Panel 1: Word Ribbon -->
+  <rect x="40" y="20" width="600" height="120" fill="#FFF" stroke="#D1D5DB" rx="8"/>
+  <rect x="40" y="20" width="600" height="30" fill="#E5E7EB" rx="4"/>
+  <text x="60" y="40" font-size="12" fill="#374151">Home</text>
+  <text x="120" y="40" font-size="12" fill="#374151" font-weight="bold">Insert</text>
+  <rect x="110" y="44" width="50" height="2" fill="#3B82F6"/>
+  <circle cx="100" cy="30" r="12" fill="#EF4444"/><text x="100" y="35" text-anchor="middle" fill="#FFF" font-size="12">①</text>
+  <rect x="60" y="70" width="60" height="50" fill="#F3F4F6" rx="6"/>
+  <text x="90" y="100" text-anchor="middle" font-size="11" fill="#374151">Pictures</text>
+  <circle cx="50" cy="70" r="12" fill="#EF4444"/><text x="50" y="75" text-anchor="middle" fill="#FFF" font-size="12">②</text>
+  <!-- Arrow -->
+  <line x1="340" y1="148" x2="340" y2="180" stroke="#EF4444" marker-end="url(#arr)"/>
+  <!-- Panel 2: File Dialog (Simplified) -->
+  <rect x="40" y="188" width="600" height="180" fill="#FFF" stroke="#D1D5DB" rx="8"/>
+  <text x="60" y="220" font-size="14" fill="#374151" font-weight="bold">Insert Picture</text>
+  <rect x="60" y="240" width="400" height="100" fill="#F9FAFB" stroke="#D1D5DB" rx="6"/>
+  <text x="80" y="270" font-size="12" fill="#374151">📄 image1.png</text>
+  <rect x="480" y="320" width="80" height="30" fill="#3B82F6" rx="6"/>
+  <text x="520" y="340" text-anchor="middle" font-size="12" fill="#FFF">Insert</text>
+  <circle cx="460" cy="320" r="12" fill="#EF4444"/><text x="460" y="325" text-anchor="middle" fill="#FFF" font-size="12">③</text>
+</svg>
